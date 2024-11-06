@@ -74,7 +74,7 @@ export function SiteFooter() {
         {/* Bottom Bar */}
         <div className="flex flex-col items-center justify-between border-t py-6 md:flex-row">
           <p className="text-sm text-muted-foreground">
-            © {new Date().getFullYear()} Your Company. All rights reserved.
+            © {new Date().getFullYear()} Funcstart. All rights reserved.
           </p>
           <div className="mt-4 flex space-x-6 md:mt-0">
             <Link
