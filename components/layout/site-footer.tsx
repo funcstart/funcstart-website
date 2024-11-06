@@ -95,7 +95,6 @@ export function SiteFooter() {
               href="/discord"
               className="text-muted-foreground hover:text-foreground"
             >
-              {/* <Icons.discord className="size-5" /> */}
               <span className="sr-only">Discord</span>
             </Link>
           </div>
