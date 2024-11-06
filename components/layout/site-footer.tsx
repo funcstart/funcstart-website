@@ -78,14 +78,14 @@ export function SiteFooter() {
           </p>
           <div className="mt-4 flex space-x-6 md:mt-0">
             <Link
-              href="https://twitter.com"
+              href="https://twitter.com/funcstart"
               className="text-muted-foreground hover:text-foreground"
             >
               <Icons.twitter className="size-5" />
               <span className="sr-only">Twitter</span>
             </Link>
             <Link
-              href="https://github.com"
+              href="https://github.com/funcstart"
               className="text-muted-foreground hover:text-foreground"
             >
               <Icons.gitHub className="size-5" />
