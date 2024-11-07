@@ -45,7 +45,7 @@ const contactMethods = [
   {
     icon: Linkedin,
     title: "LinkedIn",
-    description: "Connect with us",
+    description: "Connect with us on LinkedIn",
     value: "FuncStart",
     href: "https://www.linkedin.com/company/funcstart/",
   },
